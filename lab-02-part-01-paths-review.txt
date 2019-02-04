@@ -13,13 +13,13 @@ Feel free to use your workstation to test your answers to the questions that don
 ==========
 1. Write the command that you would use to change to the root directory.
 ----------
-
+The command to change to your root directory is / (slash). 
 
 
 ==========
 2. Write the command that you would use to change to your home directory.
 ----------
-
+The command to change to your home directory is ~ (tilde).
 
 
 ==========
@@ -31,13 +31,13 @@ Feel free to use your workstation to test your answers to the questions that don
 ==========
 4. What's the absolute path to your home directory?
 ----------
-
+The absolute path to the home directory is /Users/Student.
 
 
 ==========
 5. What's the absolute path to your Desktop directory?
 ----------
-
+The absolute path to the Desktop directory is /Users/Student/Desktop.
 
 
 ==========
