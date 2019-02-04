@@ -53,25 +53,27 @@ The absolute path to the Desktop directory is /Users/Student/Desktop.
 ==========
 7. If you're in your home directory, what's the relative path to your Desktop directory?
 ----------
-
+ent-v314-002:~ student$ cd Desktop
+ent-v314-002:Desktop student$ 
+Desktop is the relative path.
 
 
 ==========
 8. If you're in your home directory, how would you create a new directory on your desktop called stuff without changing your directory?  Write your command below.
 ----------
-
+mkdir stuff
 
 
 ==========
 9. If you're in your root directory, how would you create a new directory on your desktop called more-stuff without changing your directory?  Write your command below.
 ----------
-
+mkdir more-stuff
 
 
 ==========
 10. If you're in your Desktop directory, how would you create a new directory on your desktop called even-more-stuff?  Write your command below.
 ----------
-
+mkdir even-more-stuff
 
 
 ==========
