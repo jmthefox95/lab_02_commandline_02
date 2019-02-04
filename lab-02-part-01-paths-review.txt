@@ -13,19 +13,23 @@ Feel free to use your workstation to test your answers to the questions that don
 ==========
 1. Write the command that you would use to change to the root directory.
 ----------
-The command to change to your root directory is / (slash). 
+ent-v314-002:Users student$ cd /
+ent-v314-002:/ student$ 
+
 
 
 ==========
 2. Write the command that you would use to change to your home directory.
 ----------
-The command to change to your home directory is ~ (tilde).
+ent-v314-002:/ student$ cd ~
+ent-v314-002:~ student$ 
 
 
 ==========
 3. Write the command that you would use to change to your Desktop folder.
 ----------
-
+ent-v314-002:~ student$ cd ~/Desktop
+ent-v314-002:Desktop student$ 
 
 
 ==========
@@ -49,6 +53,7 @@ The absolute path to the Desktop directory is /Users/Student/Desktop.
 ==========
 7. If you're in your home directory, what's the relative path to your Desktop directory?
 ----------
+
 
 
 ==========
