@@ -18,6 +18,8 @@ $ echo hello
 
 Copy and paste the output below.
 ----------
+$ echo hello
+hello
 
 
 
@@ -28,6 +30,8 @@ $ echo hello there
 
 Copy and paste the output below.
 ----------
+$ echo hello there
+hello there
 
 
 
@@ -38,6 +42,11 @@ $ echo good mornin'
 
 Copy and paste the output below.
 ----------
+jmthe@LAPTOP-UU383S6J MINGW64 ~
+$ echo good mornin'
+> echo good mornin'
+good mornin
+echo good mornin
 
 
 
@@ -56,6 +65,8 @@ $ echo "good mornin'"
 
 Copy and paste the output below.
 ----------
+$ echo "good mornin'"
+good mornin'
 
 
 
@@ -66,6 +77,8 @@ $ echo *
 
 What happens?
 ----------
+$ echo *
+3D Objects ansel AppData Application Data Contacts Cookies Desktop Documents Downloads Favorites Intel IntelGraphicsProfiles Links Local Settings MicrosoftEdgeBackups Music My Documents NetHood NTUSER.DAT ntuser.dat.LOG1 ntuser.dat.LOG2 NTUSER.DAT{f25cc955-c496-11e8-8c1b-ffcd94a8a54d}.TxR.0.regtrans-ms NTUSER.DAT{f25cc955-c496-11e8-8c1b-ffcd94a8a54d}.TxR.1.regtrans-ms NTUSER.DAT{f25cc955-c496-11e8-8c1b-ffcd94a8a54d}.TxR.2.regtrans-ms NTUSER.DAT{f25cc955-c496-11e8-8c1b-ffcd94a8a54d}.TxR.blf NTUSER.DAT{f25cc956-c496-11e8-8c1b-ffcd94a8a54d}.TM.blf NTUSER.DAT{f25cc956-c496-11e8-8c1b-ffcd94a8a54d}.TMContainer00000000000000000001.regtrans-ms NTUSER.DAT{f25cc956-c496-11e8-8c1b-ffcd94a8a54d}.TMContainer00000000000000000002.regtrans-ms ntuser.ini OneDrive Pictures PrintHood ReactionVideo1.osp Recent Roaming Saved Games Searches SendTo Start Menu Templates thumbnail Videos
 
 
 
@@ -74,7 +87,7 @@ What happens?
 
 Write the command that you used below:
 ----------
-
+CTRL + C
 
 
 ==========
@@ -87,6 +100,15 @@ $ curl google.com
 
 Copy and paste the output below.
 ----------
+$ curl google.com
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   219  100   219    0     0   2807      0 --:--:-- --:--:-- --:--:--  2807<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com/">here</A>.
+</BODY></HTML>
 
 
 
@@ -97,7 +119,10 @@ $ curl www.google.com
 
 Copy and paste the output below, but not the whole thing!  Just copy up to the part that has the title tags (<title>......</title>).
 ----------
-
+$ curl www.google.com
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0<!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="en"><head><meta content="Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for." name="description"><meta content="noodp" name="robots"><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="/images/branding/googleg/1x/googleg_standard_color_128dp.png" itemprop="image"><title>Google</title>
 
 
 ==========
